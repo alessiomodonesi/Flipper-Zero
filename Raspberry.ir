@@ -1,0 +1,10 @@
+Filetype: IR signals file
+Version: 1
+#
+# Fan - Toggles power on fan.
+#
+name: Fan
+type: raw
+frequency: 38000
+duty_cycle: 0.50000
+data: 900 450 900 450 900 450 1800 900
